@@ -10,5 +10,5 @@ I'm open to Freelance gigs, collaborations and resources to make me outstanding 
 
 Currently developing my profile..
 
-Twitter : temitopeakin1
+DM [Twitter](https://twitter.com/temitopeakin)
 
