@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Akinmegha Temitope alias <b>T'megha</b> the dude who craves for Knowledge, who seeks it wherever its concealed.
+Akinmegha Temitope alias <b>T'megha</b> the dude who craves for Knowledge, and passionately seeks it wherever and however its concealed.
 
 I'm a Passionate Front end Developer <=> Flutter Developer, A member of the [Nigerian computer Society](https://www.ncs.org.ng/),
 
