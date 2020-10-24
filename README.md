@@ -12,15 +12,15 @@ I'm very open to Freelance gigs, collaborations and resources to make me outstan
 
 Currently developing my Website...You'll be the first to know when it's Live
  My Current Tech Stack includes :>
- HTML<br>
- </br>CSS/SCSS<br>
- </br>Bootstrap 4
- JavaScript
- Nodejs
- Reactjs 
- Dart
- Flutter
- MongoDB
+ <br>HTML</br>
+ <br>CSS/SCSS</br>
+ <br>Bootstrap 4</br>
+ <br>JavaScript</br>
+ <br>Nodejs</br>
+ <br>Reactjs</br> 
+ <br>Dart</br>
+ <br>Flutter</br>
+ <br>MongoDB</br>
  SQL
  
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
