@@ -12,9 +12,9 @@ I'm very open to Freelance gigs, collaborations and resources to make me outstan
 
 Currently developing my Website...You'll be the first to know when it's Live
  My Current Tech Stack includes :>
- HTML
- CSS/SCSS
- Bootstrap 4
+ HTML<br>
+ </br>CSS/SCSS<br>
+ </br>Bootstrap 4
  JavaScript
  Nodejs
  Reactjs 
