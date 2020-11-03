@@ -12,8 +12,10 @@ I'm very open to Freelance gigs, collaborations and resources to make me outstan
 
 Currently developing my Website...You'll be the first to know when it's Live
  More Information about T'megha :
- 💬 Ask me about: JavaScript, Node, React, Angular, WordPress, PHP, Dart (Flutter).
- 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music..
+
+- 💬 Ask me about: JavaScript, Node, React, Angular, WordPress, PHP, Dart (Flutter).
+- 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music..
+ 
 
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
