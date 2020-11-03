@@ -10,10 +10,10 @@ It gives me so much excitement to affect people's life positively by building qu
 
 I'm very open to Freelance gigs, collaborations and resources to make me outstanding in this Journey.
 
-Currently developing my Website...You'll be the first to know when it's Live<br>
- More Information about T'megha :</br><br>
- 💬 Ask me about: JavaScript, Node, React, Angular, WordPress, PHP, Dart (Flutter).</br></br>
- 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music..</br>
+Currently developing my Website...You'll be the first to know when it's Live
+ More Information about T'megha :
+ 💬 Ask me about: JavaScript, Node, React, Angular, WordPress, PHP, Dart (Flutter).
+ 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music..
 
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
