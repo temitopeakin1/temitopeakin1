@@ -11,19 +11,10 @@ It gives me so much excitement to affect people's life positively by building qu
 I'm very open to Freelance gigs, collaborations and resources to make me outstanding in this Journey.
 
 Currently developing my Website...You'll be the first to know when it's Live<br>
- My Current Tech Stack includes :></br>
- <br>HTML</br>
- <br>CSS/SCSS</br>
- <br>Bootstrap 4</br>
- <br>JavaScript</br>
- <br>Nodejs</br>
- <br>Reactjs</br> 
- <br>Dart</br>
- <br>Flutter</br>
- <br>MongoDB</br>
- <br>SQL</br>
- 
-Info about me DM [Twitter](https://twitter.com/temitopeakin)
+ More Information about T'megha :</br><br>
+ 💬 Ask me about: JavaScript, Node, React, Angular, WordPress, PHP, Dart (Flutter).</br></br>
+ 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music..</br>
 
+Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
 
