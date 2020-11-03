@@ -11,6 +11,7 @@ It gives me so much excitement to affect people's life positively by building qu
 I'm very open to Freelance gigs, collaborations and resources to make me outstanding in this Journey.
 
 Currently developing my Website...You'll be the first to know when it's Live
+
  More Information about T'megha :
 
 - 💬 Ask me about: JavaScript, Node, React, Angular, WordPress, PHP, Dart (Flutter).
