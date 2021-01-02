@@ -15,7 +15,9 @@ Currently developing my Website...You'll be the first to know when it's Live
  More Information about T'megha :
 
 - 💬 Ask me about: JavaScript, Node, React, Angular, WordPress, PHP, Dart (Flutter).
-- 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music..
+- 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music.
+- 💡 WakeUp: Algorithms, Data Structures, Solving Leetcodes & Codewars Problems are my favourites.
+- 📈 2021: More Projects to accomplish; focus PL : C#
  
 
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
