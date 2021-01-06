@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-Akinmegha Temitope alias <b>T'megha</b> the dude who craves for Knowledge, and passionately seeks it wherever and however its concealed.
+Who's this Dude, Akinmegha Temitope alias <b>T'megha</b> the dude who craves for Knowledge, makes most of his time Studying, and passionately Knowledge seeks it wherever and however its concealed.
 
-I'm a Passionate Front end Developer, Expert Flutter Developer, Aspiring Arificial Intelligence Engineer.I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software If the need arises.
+I'm a Passionate Front End Developer, Expert Flutter Developer, Aspiring Arificial Intelligence Engineer.I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software.
 
 I am a Member of the [Nigerian computer Society](https://www.ncs.org.ng/) 
 
