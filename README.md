@@ -2,7 +2,7 @@
 
 Who's this Dude, Akinmegha Temitope alias <b>T'megha</b> the dude who craves for Knowledge, makes most of his time Studying, and passionately seeks Knowledge wherever and however its concealed.
 
-I'm a Passionate Software Engineer with focus on Frontend enginneering and Mobile Engineering, I am an Expert Flutter Developer and Aspiring Arificial Intelligence Engineer.I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software.
+I'm a Passionate Software Engineer with focus on Frontend engineering and Mobile Engineering, I am an Expert Flutter Developer and Aspiring Arificial Intelligence Engineer.I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software.
 
 I am a Member of the [Nigerian computer Society](https://www.ncs.org.ng/) 
 
