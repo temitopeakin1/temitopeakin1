@@ -19,7 +19,8 @@ Currently developing my Website...You'll be the first to know when it's Live
 - 💬 Ask me about: JavaScript, Node, React, PHP, WordPress, MATLAB, Dart (Flutter), MYSql, MongoDB.... 
 - 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music.
 - 💡 WakeUp: Algorithms, Data Structures, Solving Leetcodes & Codewars Problems are my favourites.
-- 📈 2021: More Projects to accomplish; focus PL : C#
+- 📈 2021: More Projects to accomplish; focus PL : C# ( Had a break, still coming to this)
+- 📈 2022: More Projects to accomplish; focus PL : React and Flutter/Dart, Enagage in Hackathons. 
  
 
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
