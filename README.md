@@ -12,10 +12,7 @@ I'm very open to Freelance gigs, collaborations and resources to make me outstan
 
 I love the Google Clan, Products and Services, infact everything about them, I Earnestly Pray to have an Opportunity to work with FAANG Someday Soon..
 
-Currently developing my Website...You'll be the first to know when it's Live
-
- More Information about T'megha :
-
+More Information about T'megha :
 - 💬 Ask me about: JavaScript, Node, React, PHP, WordPress, MATLAB, Dart (Flutter), MYSql, MongoDB.... 
 - 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music.
 - 💡 WakeUp: Algorithms, Data Structures, Solving Leetcodes & Codewars Problems are my favourites.
