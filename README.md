@@ -17,8 +17,8 @@ More Information about T'megha :
 - 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music.
 - 💡 WakeUp: Algorithms, Data Structures, Solving Leetcodes & Codewars Problems are my favourites.
 - 📈 2021: More Projects to accomplish; focus PL : C# ( Had a break, still coming to this)
-- 📈 2022: More Projects to accomplish; focus PL : React and Flutter/Dart, Enagage in Hackathons, 
-- (https://user-images.githubusercontent.com/48892912/164179795-7c1d5615-976a-49f0-9416-0775e042edf1.png)
+- 📈 2022: More Projects to accomplish; focus PL : React and Flutter/Dart, Enagage in Hackathons.
+
 
  
 
