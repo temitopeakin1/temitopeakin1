@@ -27,3 +27,5 @@ Gracias..
 
 https://github-readme-stats.vercel.app/api?username=temitopeakin1
 
+![GitHub Stats](https://github-readme-stats.vercel.api?username=temitopeakin1&theme=radical)
+
