@@ -21,7 +21,7 @@ More Information about T'megha :
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=temitopeakin1&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=temitopeakin1&theme=highcontrast)
 
 
 
