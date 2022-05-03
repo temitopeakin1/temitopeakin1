@@ -20,12 +20,10 @@ More Information about T'megha :
 - 📈 2022: More Projects to accomplish; focus PL : React and Flutter/Dart, Enagage in Hackathons.
 
 
- 
-
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=temitopeakin1&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.api?username=temitopeakin1&theme=radical)
+
 
