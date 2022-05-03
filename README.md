@@ -25,3 +25,5 @@ More Information about T'megha :
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
 
+https://github-readme-stats.vercel.app/api?username=temitopeakin1
+
