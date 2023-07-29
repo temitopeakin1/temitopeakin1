@@ -2,7 +2,7 @@
 
 Who's this Dude, Akinmegha Temitope alias <b>T'megha</b> The curious guy who craves for Knowledge, makes most of his time Studying, and passionately seeks Knowledge wherever and however its concealed.
 
-I'm a Passionate Software Engineer with focus on Frontend Software Engineering & Mobile Engineering, Basically I build Web Apps using, Php, JavaScript, Angular, React, Nextjs as well as Mobile Apps with expertise in Flutter,Dart and Firebase. I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software even though it's been a long while i used them. All thanks to my Masters Programme.
+I'm a Passionate FullStack Software Engineer with focus on Frontend Software Engineering & Mobile Engineering, Basically I build Web Apps using, Php, JavaScript, Angular, React, Nextjs as well as Mobile Apps with expertise in Flutter,Dart and Firebase. I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software even though it's been a long while i used them. All thanks to my Masters Programme.
 
 It gives me so much excitement to affect people's life positively by building quality products and making the world a better place to be.
 
