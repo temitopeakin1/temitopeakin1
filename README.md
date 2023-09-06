@@ -8,13 +8,13 @@ It gives me so much excitement to affect people's life positively by building qu
 
 I'm very open to Freelance gigs, collaborations and resources to make me outstanding in this Journey. 
 
-More Information about T'megha :
+More Information about Temitope :
 - 💬 Ask me about: Java,JavaScript, Node, React, PHP, WordPress, MATLAB, Dart (Flutter), MYSql, MongoDB.... 
 - 🎉 Hobbies: Debugging Codes,Reading and Writing Tech Articles, Listening to Country Music.
 - 💡 WakeUp: Algorithms, Data Structures, Solving Leetcodes & Codewars Problems are my favourites.
 - 📈 2021: More Projects to accomplish; focus PL : C# ( Had a break, still coming to this)..
-- 📈 2022: More Projects to accomplish; focus PL : React and Flutter/Dart, Enagage in Hackathons, been focused more on Angular at the moment
-
+- 📈 2022: More Projects to accomplish; focus PL : React and Flutter/Dart, Enagage in Hackathons, been focused more on Angular at the moment.
+- 📈 2023: Get immersed in NodeJS
 
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
