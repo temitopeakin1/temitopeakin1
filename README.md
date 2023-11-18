@@ -26,9 +26,8 @@ More Information about <b>Temitope</b> :
 
 ---
 
-Info about me DM [Twitter](https://twitter.com/temitopeakin)
+Collaborations, gigs or just having to get to engage in Tech conversations DM [Twitter](https://twitter.com/temitopeakin) or message me @ temitopeakinmegha@gmail.com
 Gracias..
-username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
