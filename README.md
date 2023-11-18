@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 
 Who's this Dude, I am Temitope Akinmegha alias <b>T'megha</b> The curious guy who craves Knowledge, makes most of his time Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
