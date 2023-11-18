@@ -26,6 +26,8 @@ Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
 username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -41,6 +43,8 @@ username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&count
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ![temitopeakin1's Stats](https://github-readme-stats.vercel.app/api?username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![temitopeakin1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=temitopeakin1&theme=highcontrast&hide_border=true)
