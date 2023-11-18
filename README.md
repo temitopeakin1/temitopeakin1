@@ -8,6 +8,8 @@ It gives me so much excitement to affect people's life positively by building qu
 
 I'm very open to Freelance gigs, collaborations and resources to make me outstanding in this Journey. 
 
+---
+
 More Information about <b>Temitope</b> :
 - 💬 Languages: JavaScript, PHP, Python, TypeScript, HTML5, CSS3, Dart, MATLAB.
 - 💬 Software frameworks/Libraries: Reactjs, React-Native, Angular, Node.js, Express, Flutter, Django, Redux, RxJs, NgRx store.
@@ -22,6 +24,8 @@ More Information about <b>Temitope</b> :
 - 📈 2022: More Projects to accomplish; focus PL: React, Angular, Flutter.
 - 📈 2023: Get immersed in NodeJS
 
+---
+
 Info about me DM [Twitter](https://twitter.com/temitopeakin)
 Gracias..
 username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
@@ -31,6 +35,7 @@ username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&count
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
