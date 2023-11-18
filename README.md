@@ -1,10 +1,10 @@
 ### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 
-Who's this Dude, I am Temitope Akinmegha alias <b>T'megha</b> The curious guy who craves Knowledge, makes most of his time Studying, and passionately seeks Knowledge wherever and however it is concealed.
+I am Temitope Akinmegha alias <b>T'megha, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
-I'm a Passionate FullStack Software Engineer with a focus on Frontend Software Engineering & Mobile Engineering, Basically, I build Web Apps using, Php, JavaScript, Angular, React, and Nextjs as well as Mobile Apps with expertise in Flutter, Dart and Firebase. I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software even though it's been a long while I used them. All thanks to my Masters Programme.
+I'm a Passionate FullStack Software Engineer with a focus on Frontend Software Engineering and mobile Engineering, Basically, I build Web Apps using, Php, JavaScript, Angular, React, and Nextjs as well as Mobile Apps with expertise in Flutter, Dart and Firebase. I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software even though it's been a long while I used them. All thanks to my Masters Programme.
 
-It gives me so much excitement to affect people's life positively by building quality products and making the world a better place to be.
+It gives me so much excitement to affect people's life positively by building quality and Scalable products.
 
 I'm very open to Freelance gigs, collaborations and resources to make me outstanding in this Journey. 
 
