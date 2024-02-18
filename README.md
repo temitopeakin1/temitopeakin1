@@ -23,6 +23,7 @@ More Information about <b>Temitope</b> :
 - 📈 2021: More Projects to accomplish; focus PL : C# 
 - 📈 2022: More Projects to accomplish; focus PL: React, Angular, Flutter.
 - 📈 2023: Get immersed in NodeJS
+- 📈 2024: Focus more on backend engineering: Java & Nodejs
 
 ---
 
