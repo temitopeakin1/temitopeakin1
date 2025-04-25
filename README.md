@@ -12,7 +12,7 @@ I'm very open to Freelance gigs, collaborations and resources to make me outstan
 
 More Information about <b>Temitope</b> :
 - 💬 Languages: JavaScript, PHP, Python, TypeScript, HTML5, CSS3, Dart, MATLAB.
-- 💬 Software frameworks/Libraries: Reactjs, React-Native, Angular, Node.js, Express, Flutter, Django, Redux, RxJs, NgRx store.
+- 💬 Software frameworks/Libraries: Reactjs, Nextjs, React-Native, Angular, Node.js, Express, Flutter, Django, Redux, RxJs, NgRx store.
 - 💬 API Specs: RESTApi, GraphQL.
 - 💬 CSS Framworks: Bootstrap 5, MaterialUI, Tailwind CSS.
 - 💬 Databases:  MongoDB, MySQL, Firebase, Supabase.
@@ -24,6 +24,7 @@ More Information about <b>Temitope</b> :
 - 📈 2022: More Projects to accomplish; focus PL: React, Angular, Flutter.
 - 📈 2023: Get immersed in NodeJS
 - 📈 2024: Focus more on backend engineering: Java & NodeJs
+- 📈 2025: Focus more on backend and Cloud services GoLang, NestJs, NodeJs and AWS, write more technical articles (commencing midyear) 
 
 ---
 
