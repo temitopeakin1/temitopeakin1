@@ -14,7 +14,7 @@ More Information about <b>Temitope</b> :
 - 💬 Languages: JavaScript, PHP, Python, TypeScript, HTML5, CSS3, Dart, MATLAB.
 - 💬 Software frameworks/Libraries: Reactjs, Nextjs, React-Native, Angular, Node.js, Express, Flutter, Django, Redux, RxJs, NgRx store.
 - 💬 API Specs: RESTApi, GraphQL.
-- 💬 CSS Framworks: Bootstrap 5, MaterialUI, Tailwind CSS.
+- 💬 CSS Framworks: Bootstrap 5, MaterialUI, Tailwind CSS, UnoCSS.
 - 💬 Databases:  MongoDB, MySQL, Firebase, Supabase.
 - 💬 Software Testing: Mocha, Jest, Cypress.
 - 💬 Web Servers: AWS, Digital Ocean, Azure DevOps.
