@@ -11,7 +11,7 @@ I'm very open to Freelance gigs, collaborations and resources to make me outstan
 ---
 
 More Information about <b>Temitope</b> :
-- 💬 Languages: JavaScript, PHP, Python, TypeScript, HTML5, CSS3, Dart, MATLAB.
+- 💬 Languages: JavaScript, Java, Python, TypeScript, HTML5, CSS3.
 - 💬 Software frameworks/Libraries: Reactjs, Nextjs, React-Native, Angular, Node.js, Express, Flutter, Django, Redux, RxJs, NgRx store.
 - 💬 API Specs: RESTApi, GraphQL.
 - 💬 CSS Framworks: Bootstrap 5, MaterialUI, Tailwind CSS, UnoCSS.
