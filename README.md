@@ -1,6 +1,4 @@
-<div align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Temitope Akinmegha 👨‍🎤</div>
-
----
+<h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Temitope Akinmegha 👨‍🎤</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD600&background=1E1E1E00&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;AI+%26+LLM+Enthusiast;Building+Scalable+Software+Solutions;" alt="Typing SVG" />
@@ -12,7 +10,7 @@
   </a>
 </p>
 <div align="justify">
-<strong>T'megha</strong>, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
+<strong>T'megha<strong>, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
 I'm a Passionate FullStack Software Engineer, I build aesthetic and functional apps using JavaScript, Angular, React, Node.js, Nestjs and Nextjs as well as Mobile Apps with expertise in Flutter. I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software.
 
