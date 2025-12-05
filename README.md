@@ -63,7 +63,7 @@ Gracias..
 ![temitopeakin1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=temitopeakin1&theme=highcontrast&hide_border=true)
 ![temitopeakin1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitonelsonn&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=temitopeakin1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 
