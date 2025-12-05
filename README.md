@@ -66,6 +66,12 @@ Gracias..
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=temitopeakin1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=temitopeakin1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+</div>
+
 
 
 
