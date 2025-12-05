@@ -1,5 +1,6 @@
 ### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 ---
+<img src="https://komarev.com/ghpvc/?username=temitopeakin1&..." />
 
 I am Temitope Akinmegha alias <b>T'megha, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
