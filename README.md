@@ -1,9 +1,8 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Temitope Akinmegha 👨‍🎤
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Temitope Akinmegha 👨‍🎤</h1>
 ---
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD600&background=1E1E1E00&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;AI+%26+LLM+Enthusiast;Building+Scalable+Software+Solutions;" alt="Typing SVG" />
 </div>
----
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=temitopeakin1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://linkedin.com/in/akinmeghatemitope" target="_blank">
