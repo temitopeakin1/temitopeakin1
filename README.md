@@ -49,19 +49,23 @@ Gracias..
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD600&background=1E1E1E00&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;AI+%26+LLM+Enthusiast;Building+Scalable+Software+Solutions;" alt="Typing SVG" />
-</div>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6AD600&background=1E1E1E00&center=true&vCenter=true&random=false&width=500&lines=Big+Data+Engineer;AI+%26+LLM+Enthusiast;Building+Scalable+Data+Solutions;Cloud+Architecture+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD600&background=1E1E1E00&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;AI+%26+LLM+Enthusiast;Building+Scalable+Software+Solutions;" alt="Typing SVG" />
 </div>
 
 ---
 
+## 📊 GitHub Statistics
+
 ![temitopeakin1's Stats](https://github-readme-stats.vercel.app/api?username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![temitopeakin1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=temitopeakin1&theme=highcontrast&hide_border=true)
 ![temitopeakin1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=temitopeakin1&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitonelsonn&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
 
 
 
