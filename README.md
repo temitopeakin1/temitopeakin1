@@ -66,6 +66,15 @@ Gracias..
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=temitopeakin1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=temitopeakin1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=temitopeakin1&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temitopeakin1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
