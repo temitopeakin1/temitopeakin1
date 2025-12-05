@@ -1,7 +1,5 @@
 ### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 ---
-<img src="https://komarev.com/ghpvc/?username=temitopeakin1&..." />
-
 I am Temitope Akinmegha alias <b>T'megha, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
 I'm a Passionate FullStack Software Engineer with a focus on Frontend Software Engineering( Web & Mobile ),  I build aesthetic and functional apps using JavaScript, Angular, React, Node.js, Nestjs and Nextjs as well as Mobile Apps with expertise in Flutter. I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software. All thanks to my expertise in Systems engineeering.
