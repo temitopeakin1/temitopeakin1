@@ -35,7 +35,8 @@ More Information about <b>Temitope</b> :
 - 📈 2022: More Projects to accomplish; focus PL: React, Angular, Flutter.
 - 📈 2023: Get immersed in NodeJS
 - 📈 2024: Focus more on backend engineering: Java & NodeJs
-- 📈 2025: Focus more on backend and Cloud services GoLang, NestJs, NodeJs and AWS, write more technical articles (commencing midyear) 
+- 📈 2025: Focus more on backend and Cloud services GoLang, NestJs, NodeJs and AWS, write more technical articles (commencing midyear)
+- 📈 2026: Data Structures and Algorithms, System Design, Java, Golang 
 
 ---
 
