@@ -12,7 +12,7 @@
 <div align="justify">
 <strong>T'megha<strong>, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
-I'm a Passionate FullStack Software Engineer, I build aesthetic and functional apps using JavaScript, Angular, React, Node.js, Nestjs and Nextjs as well as Mobile Apps with expertise in Flutter. I also have Expertise in Modelling and Simulation, using MATLAB and 'R' software.
+I'm an Experienced FullStack Software Engineer, I build aesthetic and functional apps using JavaScript, Angular, React, Nextjs, Remix, Node.js and NestJS. I have solid proficiency in mathematical modeling and simulation, with a strong focus on mathematically driven simulation techniques.
 
 It gives me so much excitement to affect people's life positively by building quality and Scalable products.
 
