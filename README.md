@@ -10,8 +10,7 @@
   </a>
 </p>
 <div align="justify">
-<strong>T'megha<strong>, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
-
+  
 **Curious by nature. Builder by choice.**
 
 I’m a Software Engineer who enjoys understanding how things work, taking ideas apart, and putting them back together in better ways. Most of my time is spent **building, studying, experimenting, and chasing knowledge** wherever I can find it.
