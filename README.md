@@ -12,7 +12,15 @@
 <div align="justify">
 <strong>T'megha<strong>, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
-I'm an Experienced Software Engineer, I build aesthetic and functional apps using JavaScript, Angular, React, Nextjs, Remix, Node.js and NestJS. I also possess a solid proficiency in mathematical modeling and simulation, with a strong focus on mathematically driven simulation techniques.
+**Curious by nature. Builder by choice.**
+
+I’m a Software Engineer who enjoys understanding how things work, taking ideas apart, and putting them back together in better ways. Most of my time is spent **building, studying, experimenting, and chasing knowledge** wherever I can find it.
+
+I build aesthetic, functional, and scalable applications across the stack, working primarily with **JavaScript, TypeScript, React, Angular, Next.js, Remix, Node.js, and NestJS**.
+
+My interests extend beyond application development into **systems engineering, mathematical modelling, simulation, distributed systems, cloud technologies, and AI-driven software**.
+
+For me, software craftsmanship is about more than writing code. It’s about **curiosity, continuous learning, thoughtful engineering, and building things that stand the test of time.**
 
 In my space from the context of building and development, I am always concerned about writing clean codes that are reliable and can scale.
 
