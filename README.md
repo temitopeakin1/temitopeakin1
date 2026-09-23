@@ -12,11 +12,11 @@
 <div align="justify">
 <strong>T'megha<strong>, The Software Craftsman</b> The curious geek who craves for Knowledge, makes most of his time Building, Studying, and passionately seeks Knowledge wherever and however it is concealed.
 
-I'm an Experienced FullStack Software Engineer, I build aesthetic and functional apps using JavaScript, Angular, React, Nextjs, Remix, Node.js and NestJS. I also possess a solid proficiency in mathematical modeling and simulation, with a strong focus on mathematically driven simulation techniques.
+I'm an Experienced Software Engineer, I build aesthetic and functional apps using JavaScript, Angular, React, Nextjs, Remix, Node.js and NestJS. I also possess a solid proficiency in mathematical modeling and simulation, with a strong focus on mathematically driven simulation techniques.
 
-It gives me so much excitement to affect people's life positively by building quality and Scalable products.
+In my space from the context of building and development, I am always concerned about writing clean codes that are reliable and can scale.
 
-I'm very open to Freelance gigs, collaborations and resources to make me outstanding in this Journey. 
+Open to great opportunities home and abroad
 </div>
 
 ---
@@ -36,7 +36,7 @@ More Information about <b>Temitope</b> :
 - 📈 2023: Get immersed in NodeJS
 - 📈 2024: Focus more on backend engineering: Java & NodeJs
 - 📈 2025: Focus more on backend and Cloud services GoLang, NestJs, NodeJs and AWS, write more technical articles (commencing midyear)
-- 📈 2026: Data Structures and Algorithms, System Design, Java, Golang
+- 📈 2026: Data Structures and Algorithms, System Design, Java, Golang (More emphasis)
 
 Achievements(Projects, Hackathons) :
 
